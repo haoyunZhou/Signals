@@ -1,0 +1,462 @@
+﻿  output.cpp
+e:\rf\signals\signals\common.h(35): warning C4091: “typedef ”: 没有声明变量时忽略“dem”的左侧
+e:\rf\signals\signals\common.h(105): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\common.h(105): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\common.h(120): error C2144: 语法错误:“path”的前面应有“;”
+e:\rf\signals\signals\common.h(120): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\signals.h(8): error C2236: 意外的标记“class”。是否忘记了“;”?
+e:\rf\signals\signals\signals.h(9): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\rf\signals\signals\signals.h(9): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\rf\signals\signals\output.h(9): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\rf\signals\signals\output.h(9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\output.h(9): error C2238: 意外的标记位于“;”之前
+e:\rf\signals\signals\output.cpp(21): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(21): error C2061: 语法错误: 标识符“Signals”
+e:\rf\signals\signals\output.cpp(48): error C3861: “LoadLossColors”: 找不到标识符
+e:\rf\signals\signals\output.cpp(110): error C3861: “LonDiff”: 找不到标识符
+e:\rf\signals\signals\output.cpp(51): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(88): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(279): error C3861: “LoadSignalColors”: 找不到标识符
+e:\rf\signals\signals\output.cpp(337): error C3861: “LonDiff”: 找不到标识符
+e:\rf\signals\signals\output.cpp(282): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(315): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(520): error C3861: “LoadDBMColors”: 找不到标识符
+e:\rf\signals\signals\output.cpp(582): error C3861: “LonDiff”: 找不到标识符
+e:\rf\signals\signals\output.cpp(523): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(557): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(815): error C3861: “LonDiff”: 找不到标识符
+e:\rf\signals\signals\output.cpp(758): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(792): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(1022): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1022): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1022): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1026): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1026): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1026): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1031): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1031): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1031): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1033): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1033): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1033): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1036): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1036): error C2227: “->Azimuth”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1036): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1037): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1037): error C2227: “->ElevationAngle”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1037): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1038): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1038): error C2227: “->ElevationAngle2”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1038): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1052): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1052): error C2227: “->Distance”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1052): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1057): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1057): error C2227: “->Distance”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1057): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1101): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1101): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1101): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1106): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1106): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1106): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1111): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1111): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1111): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1114): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1114): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1114): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1119): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1119): error C2227: “->Distance”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1119): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1123): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1123): error C2227: “->Distance”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1123): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1125): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1125): error C2227: “->Azimuth”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1125): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1127): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1127): error C2227: “->ElevationAngle”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1127): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1128): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1128): error C2227: “->ElevationAngle2”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1128): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1304): error C3861: “ReadPath”: 找不到标识符
+e:\rf\signals\signals\output.cpp(1323): error C3861: “Azimuth”: 找不到标识符
+e:\rf\signals\signals\output.cpp(1426): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\rf\signals\signals\output.cpp(1435): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\rf\signals\signals\output.cpp(1443): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\rf\signals\signals\output.cpp(1451): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\rf\signals\signals\output.cpp(1455): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\rf\signals\signals\output.cpp(1475): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\rf\signals\signals\output.cpp(1523): error C3861: “Distance”: 找不到标识符
+e:\rf\signals\signals\output.cpp(1630): error C3861: “ObstructionAnalysis”: 找不到标识符
+e:\rf\signals\signals\output.cpp(1693): error C3861: “Azimuth”: 找不到标识符
+e:\rf\signals\signals\output.cpp(1700): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1700): error C2227: “->Distance”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1700): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1705): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1705): error C2227: “->Distance”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1705): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(997): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(1021): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1021): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  e:\rf\signals\signals\output.cpp(1021): note: 缺失的可变参数 1 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1024): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1024): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\rf\signals\signals\output.cpp(1024): note: 缺失的可变参数 2 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1030): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1030): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  e:\rf\signals\signals\output.cpp(1030): note: 缺失的可变参数 1 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1032): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1032): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\rf\signals\signals\output.cpp(1032): note: 缺失的可变参数 2 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1051): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1051): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\rf\signals\signals\output.cpp(1051): note: 缺失的可变参数 2 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1056): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1056): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\rf\signals\signals\output.cpp(1056): note: 缺失的可变参数 2 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1100): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1100): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  e:\rf\signals\signals\output.cpp(1100): note: 缺失的可变参数 1 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1103): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1103): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\rf\signals\signals\output.cpp(1103): note: 缺失的可变参数 2 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1110): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1110): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  e:\rf\signals\signals\output.cpp(1110): note: 缺失的可变参数 1 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1112): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1112): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\rf\signals\signals\output.cpp(1112): note: 缺失的可变参数 2 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1118): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1118): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\rf\signals\signals\output.cpp(1118): note: 缺失的可变参数 2 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1122): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1122): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\rf\signals\signals\output.cpp(1122): note: 缺失的可变参数 2 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1644): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1645): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1646): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1654): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1672): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1673): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1680): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1683): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1685): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(1698): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1698): note: 占位符和其参数预计 3 可变参数，但提供的却是 2 参数
+  e:\rf\signals\signals\output.cpp(1698): note: 缺失的可变参数 3 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1703): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  e:\rf\signals\signals\output.cpp(1703): note: 占位符和其参数预计 3 可变参数，但提供的却是 2 参数
+  e:\rf\signals\signals\output.cpp(1703): note: 缺失的可变参数 3 为格式字符串“%.2f”所需
+e:\rf\signals\signals\output.cpp(1754): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1754): error C2227: “->ReadPath”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1754): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1755): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1755): error C2227: “->Azimuth”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1755): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1756): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1756): error C2227: “->Distance”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1756): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1757): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1757): error C2227: “->ElevationAngle”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1757): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1758): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1758): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1758): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1766): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1766): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1766): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1767): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1767): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1767): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1800): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1800): error C2227: “->GetElevation”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1800): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1805): error C2065: “_signals”: 未声明的标识符
+e:\rf\signals\signals\output.cpp(1805): error C2227: “->Distance”的左边必须指向类/结构/联合/泛型类型
+  e:\rf\signals\signals\output.cpp(1805): note: 类型是“unknown-type”
+e:\rf\signals\signals\output.cpp(1772): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\output.cpp(1773): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\output.cpp(1774): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\output.cpp(1775): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\output.cpp(1776): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\output.cpp(1777): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\output.cpp(1778): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\output.cpp(1779): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\output.cpp(1780): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\output.cpp(1781): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\output.cpp(1782): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\output.cpp(1783): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\output.cpp(1785): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(1787): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(1788): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(1789): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(1792): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(1793): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\rf\signals\signals\output.cpp(1974): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1975): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1976): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1983): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(1999): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\rf\signals\signals\output.cpp(2000): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+  sui.cpp
+e:\rf\signals\signals\models\sui.cpp(27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\rf\signals\signals\models\sui.cpp(43): error C2065: “M_PI”: 未声明的标识符
+  los.cpp
+e:\rf\signals\signals\common.h(35): warning C4091: “typedef ”: 没有声明变量时忽略“dem”的左侧
+e:\rf\signals\signals\common.h(105): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\common.h(105): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\common.h(120): error C2144: 语法错误:“path”的前面应有“;”
+e:\rf\signals\signals\common.h(120): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\los.cpp(13): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  itwom3.0.cpp
+e:\rf\signals\signals\common.h(35): warning C4091: “typedef ”: 没有声明变量时忽略“dem”的左侧
+e:\rf\signals\signals\common.h(105): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\common.h(105): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\common.h(120): error C2144: 语法错误:“path”的前面应有“;”
+e:\rf\signals\signals\common.h(120): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(454): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(454): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(516): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(516): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(832): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(832): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(957): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(957): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(1149): error C2144: 语法错误:“bool”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(1149): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(1150): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(1150): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(1150): error C2086: “int __thread”: 重定义
+  e:\rf\signals\signals\models\itwom3.0.cpp(1149): note: 参见“__thread”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(1340): error C2144: 语法错误:“bool”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(1340): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(1341): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(1341): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(1341): error C2086: “int __thread”: 重定义
+  e:\rf\signals\signals\models\itwom3.0.cpp(1340): note: 参见“__thread”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(1615): error C2144: 语法错误:“int”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(1615): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(1616): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(1616): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(1616): error C2086: “int __thread”: 重定义
+  e:\rf\signals\signals\models\itwom3.0.cpp(1615): note: 参见“__thread”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(1653): error C2144: 语法错误:“bool”的前面应有“;”
+e:\rf\signals\signals\models\itwom3.0.cpp(1653): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itwom3.0.cpp(1653): error C2086: “int __thread”: 重定义
+  e:\rf\signals\signals\models\itwom3.0.cpp(1615): note: 参见“__thread”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2499): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2502): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2505): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2508): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2511): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2637): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2640): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2643): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2648): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2651): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2654): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2846): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2849): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2851): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2853): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\models\itwom3.0.cpp(2855): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+  itm.cpp
+e:\rf\signals\signals\common.h(35): warning C4091: “typedef ”: 没有声明变量时忽略“dem”的左侧
+e:\rf\signals\signals\common.h(105): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\common.h(105): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\common.h(120): error C2144: 语法错误:“path”的前面应有“;”
+e:\rf\signals\signals\common.h(120): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\models\itm.cpp(1275): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itm.cpp(1279): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itm.cpp(1282): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itm.cpp(1285): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\models\itm.cpp(1288): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\models\itm.cpp(1458): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itm.cpp(1461): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itm.cpp(1464): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\rf\signals\signals\models\itm.cpp(1467): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\rf\signals\signals\models\itm.cpp(1470): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+  main.cpp
+e:\rf\signals\signals\common.h(35): warning C4091: “typedef ”: 没有声明变量时忽略“dem”的左侧
+e:\rf\signals\signals\common.h(105): error C2144: 语法错误:“double”的前面应有“;”
+e:\rf\signals\signals\common.h(105): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\common.h(120): error C2144: 语法错误:“path”的前面应有“;”
+e:\rf\signals\signals\common.h(120): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\rf\signals\signals\main.cpp(42): error C2065: “ss_name”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(46): error C2065: “ss_name”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(46): error C2065: “version”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(101): error C3861: “do_allocs”: 找不到标识符
+e:\rf\signals\signals\main.cpp(109): error C2872: “string”: 不明确的符号
+  e:\rf\signals\signals\common.h(110): note: 可能是“char string[]”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2634): note: 或  “std::string”
+e:\rf\signals\signals\main.cpp(113): error C2065: “forced_erp”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(114): error C2065: “forced_freq”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(126): error C2065: “lat”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(127): error C2065: “lon”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(128): error C2065: “txh”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(148): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(148): error C2228: “.lat”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(149): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(149): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(150): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(150): error C2228: “.lat”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(151): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(151): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(191): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(191): error C2228: “.name”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(192): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(192): error C2228: “.filename”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(193): error C3861: “LoadPAT”: 找不到标识符
+e:\rf\signals\signals\main.cpp(269): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(269): error C2228: “.lat”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(269): error C3861: “ReadBearing”: 找不到标识符
+e:\rf\signals\signals\main.cpp(275): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(275): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(275): error C3861: “ReadBearing”: 找不到标识符
+e:\rf\signals\signals\main.cpp(276): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(276): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(277): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(277): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(278): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(278): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(287): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(287): error C2228: “.lat”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(287): error C3861: “ReadBearing”: 找不到标识符
+e:\rf\signals\signals\main.cpp(294): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(294): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(294): error C3861: “ReadBearing”: 找不到标识符
+e:\rf\signals\signals\main.cpp(295): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(295): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(296): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(296): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(297): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(297): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(305): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(305): error C2228: “.alt”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(316): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(316): error C2228: “.alt”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(324): error C2065: “rxGain”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(358): error C2065: “ter”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(360): error C2065: “ter”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(360): error C2050: switch 表达式不是整型
+e:\rf\signals\signals\main.cpp(362): error C2065: “terdic”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(363): error C2065: “tercon”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(367): error C2065: “terdic”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(368): error C2065: “tercon”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(372): error C2065: “terdic”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(373): error C2065: “tercon”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(377): error C2065: “terdic”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(378): error C2065: “tercon”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(381): error C2065: “terdic”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(382): error C2065: “tercon”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(385): error C2065: “terdic”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(386): error C2065: “tercon”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(389): error C2065: “terdic”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(390): error C2065: “tercon”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(400): error C2065: “terdic”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(402): error C2065: “terdic”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(412): error C2065: “tercon”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(414): error C2065: “tercon”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(481): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(481): error C2228: “.lat”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(487): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(487): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(514): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(514): error C2228: “.alt”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(517): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(517): error C2228: “.alt”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(548): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(548): error C2228: “.alt”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(549): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(549): error C2228: “.alt”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(571): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(571): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(572): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(572): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(574): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(574): error C2228: “.lat”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(575): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(575): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(583): error C3861: “LonDiff”: 找不到标识符
+e:\rf\signals\signals\main.cpp(586): error C3861: “LonDiff”: 找不到标识符
+e:\rf\signals\signals\main.cpp(590): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(590): error C2228: “.lat”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(591): error C2065: “tx_site”: 未声明的标识符
+e:\rf\signals\signals\main.cpp(591): error C2228: “.lon”的左边必须有类/结构/联合
+e:\rf\signals\signals\main.cpp(591): fatal error C1003: 错误计数超过 100；正在停止编译
+  inputs.cpp
+e:\rf\signals\signals\inputs.cpp(4): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  Signals.cpp
+e:\rf\signals\signals\signals.cpp(29): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  正在生成代码...

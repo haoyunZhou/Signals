@@ -87,6 +87,7 @@ int main::doMain(int argc, char *argv[])
         fprintf(stdout, "     -haf Halve 1 or 2 (optional)\n");
         fprintf(stdout, "     -nothreads Turn off threaded processing\n");
 
+
         fflush(stdout);
 
         return 1;
